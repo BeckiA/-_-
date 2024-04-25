@@ -9,6 +9,7 @@ const GSZemenay = 'assets/images/singers/zemenay_gosaye.jpg';
 const GSFikirte = 'assets/images/singers/fikirte_feleke.jpg';
 const GSHana = 'assets/images/singers/hana_merawi.jpg';
 const GSZerfe = 'assets/images/singers/zerfe_kebede.jpg';
+const GSTiztaw = 'assets/images/singers/tizitaw_samuel.jpg';
 
 // Hawaz's Albums
 const nolawiHer = 'assets/images/hawaz_albums/nolawi_her.jpg';
@@ -37,3 +38,7 @@ const bamaye = 'assets/images/zerfe_albums/bamaye.jpg';
 const malderaderbet = 'assets/images/zerfe_albums/malderaderbet.jpg';
 const slene = 'assets/images/zerfe_albums/slene_mimaldew.jpg';
 const yefkrh = 'assets/images/zerfe_albums/yefkrh.jpg';
+
+// Tizitaw's Albums
+const werashu = 'assets/images/tizitaw_albums/werashu_weresen.jpg';
+const yefera = 'assets/images/tizitaw_albums/yefera_ymeles.jpg';
