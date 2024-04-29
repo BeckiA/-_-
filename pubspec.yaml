@@ -76,6 +76,7 @@ flutter:
     - assets/images/fikirte_albums/
     - assets/images/hana_albums/
     - assets/images/zerfe_albums/
+    - assets/images/tizitaw_albums/
 
   fonts:
     - family: Poppins
